@@ -1,0 +1,8 @@
+[gd_scene format=3 uid="uid://cestmade7idl8"]
+
+[ext_resource type="Script" uid="uid://bu5d0naj6cc4c" path="res://menu.gd" id="1"]
+
+[node name="player" type="Control" unique_id=89089954]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1")
